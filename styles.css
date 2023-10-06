@@ -33,14 +33,14 @@ img{
 }
 button{
     margin-top: 20px;
-    width: 20%;
-    height: 4%;
+    width: 28%;
+    height: 6%;
     border: solid 1px #113946;
     border-radius: 20px;
     background-color: #113946;
     font-weight: bold;
-    color:#EAD7BB
-    
+    color:#EAD7BB;
+    font-size: 1.4rem;
 }
 @media (max-width: 630px){
     .main_container{
